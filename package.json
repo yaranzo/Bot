@@ -1,0 +1,33 @@
+{
+  "name": "clevererbot-twitch",
+  "version": "0.1.11",
+  "description": "Clevererbot chatbot for use on twitch.tv",
+  "main": "bot.js",
+  "dependencies": {
+    "cleverbot.io": "^1.0.4",
+    "suncalc": "^1.6.0",
+    "prototypes": "^2.2.0",
+    "tmi.js": "^1.1.2",
+    "zalgify": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluesatin/Clevererbot-twitch.git"
+  },
+  "keywords": [
+    "clevererbot",
+    "cleverbot",
+    "chatbot",
+    "twitch"
+  ],
+  "author": "Bluesatin <bluesatin@hotmail.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluesatin/Clevererbot-twitch/issues"
+  },
+  "homepage": "https://github.com/bluesatin/Clevererbot-twitch#readme"
+}
